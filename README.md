@@ -1,4 +1,4 @@
-# Complete Guide To Data Visualization: Exploring and Explaining Data
+# Data Visualization: Exploring and Explaining Data
 
 Data visualization techniques are for exploring data for trends and patterns or to explain insight to stakeholders. When plots are for exploration, speed is a priority over readability. After the data exploration phase, the analyst selects and polishes the most important visualizations to tell a data story to stakeholders. These polished upgraded visualizations are called explanatory data visualizations.
 
